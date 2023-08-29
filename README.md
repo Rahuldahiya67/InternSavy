@@ -2,7 +2,7 @@
 Task Given By InternSavy
 
 # [InternSavy](https://www.internsavy.com/) Internship
-# Candidate Name : [Aanchal Bamugade](https://www.linkedin.com/in/aanchal-bamugade-6968441a0/)
+# Candidate Name : [RAHUL](https://www.linkedin.com/in/rahul-dahiya-466323165/)
 
 ### Task 1 : Graduate Admissions Prediction Using Machine Learning 
 
