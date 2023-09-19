@@ -11,7 +11,7 @@ Task Given By InternSavy
 **Data set [link](https://www.kaggle.com/datasets/mohansacharya/graduate-admissions)**
 
 
-### Task 2 : Mall Customers Segmentation Using Unsupervised Machine Learning 
+### Task 2 : Mall Customers Segmentation Using Unsupervised Machine Learning.
 
 #### Use classification technique for the any customer dataset using machine learning
 
